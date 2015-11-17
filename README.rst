@@ -1,8 +1,8 @@
 ==================
-typo3-contributor-onboarding
+TYPO3 contributor onboarding
 ==================
 
-Slides and handout for TYPO3 contributor onboarding session.
+This project contains slides and handout for TYPO3 contributor onboarding sessions.
 
 Contents
 ==================
