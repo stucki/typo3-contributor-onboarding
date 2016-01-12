@@ -21,6 +21,11 @@ Coding Standards
 - TYPO3 Code of Conduct: https://typo3.org/community/code-of-conduct/
 - Semantic Versioning: http://semver.org/
 
+TER
+==================
+
+- TYPO3 Extension Utils: https://github.com/etobi/Typo3ExtensionUtils
+
 Github
 ==================
 
