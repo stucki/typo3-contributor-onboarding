@@ -11,7 +11,7 @@ This project contains slides and handout for TYPO3 contributor onboarding sessio
 Contents
 ==================
 
-- Presentation for the full session: `Google Presentation <https://docs.google.com/presentation/d/1RiNAv7Wf0s-Ur4F1Zmjt1Q1-QbCMafTuHsmIXOFtA6s/edit?usp=sharing>`_
+- Presentation for the full session: `Google Presentation <https://docs.google.com/presentation/d/1MeoysncRdFd1xbqD0hbimeRmVEqoLDkjGRresRB-MfM/edit?usp=sharing>`_
 
   Note: These slides provide the framework for your session, however it misses a lot of things that need to be explained or demonstrated live.
 
