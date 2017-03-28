@@ -28,27 +28,6 @@ Coding Standards
 - TYPO3 Code of Conduct: https://typo3.org/community/code-of-conduct/
 - Semantic Versioning: http://semver.org/
 
-Shell commands
-==================
-
-- Push to Gerrit instead of git.typo3.org
-::
-
-  git config --global url."ssh://<username>@review.typo3.org:29418".pushInsteadOf git://git.typo3.org
-- Rebase on pull
-::
-
-  git config --global branch.autosetuprebase remote
-- Set an alias "git hist" to see 1 commit per line
-::
-
-  git config --global alias.hist \
-    "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
-- Show all branches in a tree view, limit to 10 last commits
-::
-
-  git hist --all -n 10
-
 Documentation
 ==================
 
